@@ -1,0 +1,3 @@
+* This is my first git repository
+* To Learn how to git work
+* in addition to learn push,pull,commit changes etc... 
